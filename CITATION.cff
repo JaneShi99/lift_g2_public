@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Shi
+    given-names: Jia
+    orcid: https://orcid.org/0000-0002-9360-3454
+title: "Lifting genus 2 l-polynomials"
+version: 1.0.0
+date-released: 2025-07-22
